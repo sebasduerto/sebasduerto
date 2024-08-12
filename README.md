@@ -7,11 +7,11 @@
 - 🤔 Fun Fact: I´m a graphic designer.<br/>
 - ✉️ How to reach me: sebasduertoa@gmail.com
 
-### Contact with me
+### 📞 Contact with me
 <p><a href="https://www.linkedin.com/in/sebastianduerto"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://www.behance.net/sebastianduerto"><img src="https://img.shields.io/badge/behance-%231DA1F2.svg?&style=for-the-badge&logo=behance&logoColor=white" height=25></a></p>
 
-### <h1>🧠 Skills</h1>
+# 🧠 Skills:
 
 ### 🖥️ Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,6 +30,5 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sebasduerto&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sebasduerto&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sebasduerto&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebasduerto&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
