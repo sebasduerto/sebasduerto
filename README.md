@@ -1,6 +1,5 @@
 ### <h1>Hi 👋 I am Sebastian Duerto</h1>
 
-> Student of 42 Barcelona | Graphic Designer
 <br />
 - 📚 Learning: Web Development and C.<br/>
 - 🎮 Hobbies: Videogames and Design.<br/>
